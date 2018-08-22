@@ -8,7 +8,7 @@ il primo rilascio del servizio deve prevedere il numero
 minimo di funzionalità essenziali utili a raccogliere informazioni 
 dagli utilizzatori e aggiustare il tiro delle fasi successive.
 Ogni rilascio incrementale deve essere stato testato da 
-utenti veri e documentato.I capitolati di gara devono prevedere 
+utenti veri e documentato. I capitolati di gara devono prevedere 
 l’applicazione di tale principio.
 
 .. discourse::
